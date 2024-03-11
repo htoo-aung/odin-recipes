@@ -5,3 +5,7 @@ body {
 #recipes {
     color: #a52a2a;
 }
+
+.title {
+    text-align: center;
+}
