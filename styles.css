@@ -24,3 +24,8 @@ ul {
     text-align: center;
     padding: 20px;
 }
+
+.image {
+    display: block;
+    margin: 40px auto;
+}
