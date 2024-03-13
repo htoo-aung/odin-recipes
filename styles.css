@@ -1,12 +1,26 @@
 body {
     background-color: #ffebcd;
+    font-family: Helvetica, "Times New Roman";
+}
+
+h1 {
+    text-align: center;
+    color: #a52a2a;
+    border-bottom:black solid ;
+    padding-bottom: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+
+ul {
+    list-style-type: none;
 }
 
 #recipes {
+    border: #a52a2a solid;
     color: #a52a2a;
-}
-
-.title {
+    margin: 40px 300px;
     text-align: center;
-    color: #a52a2a;
+    padding: 20px;
 }
